@@ -114,7 +114,7 @@ print(weekly_averages.head())
 ![Weekly Average of Duration (Day 1 vs. Day 7)](https://github.com/Sourabh1710/Cohort-Analysis/blob/main/images/Weekly%20Average%20of%20Duration%20(Day%201%20vs.%20Day%207).png)
 
 ### Cohort Chart for Weekly Averages
-![Cohort Matrix]([path_to_image](https://github.com/Sourabh1710/Cohort-Analysis/blob/main/images/Cohort%20Matrix%20of%20Weekly%20Averages.png))
+![Cohort Matrix](https://github.com/Sourabh1710/Cohort-Analysis/blob/main/images/Cohort%20Matrix%20of%20Weekly%20Averages.png)
 
 From the cohort chart, I observed:
 - The number of new users and returning users fluctuates from week to week.
